@@ -3,7 +3,9 @@
 * Tee virtuaaliympäristö: `python -m venv venv`
 * Aktivoi virtuaaliympäristö joko **VS Codesta** tai komennolla:
    * `source venv/bin/activate` (Linux tai Mac)
-   * `venv\Scripts\Activate.ps1` (Windows)
+   * `venv\bin\Activate.ps1` (Windows)
+
+
 
 * Päivitä pip: `pip install -U pip`
 
